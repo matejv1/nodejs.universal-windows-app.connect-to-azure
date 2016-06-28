@@ -1,0 +1,14 @@
+{
+  "name": "nodejs.universal-windows-app.connect-to-azure",
+  "version": "0.0.0",
+  "description": "nodejs.universal-windows-app.connect-to-azure",
+  "main": "server.js",
+  "author": {
+    "name": "matej",
+    "email": ""
+  },
+  "dependencies": {
+    "mssql": "^3.3.0",
+    "tedious": "^1.14.0"
+  }
+}

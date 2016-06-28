@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "node/node.d.ts": {
+      "commit": "830586ef556be5244f3711587b0c774ddfd959c4"
+    },
+    "mssql/mssql.d.ts": {
+      "commit": "830586ef556be5244f3711587b0c774ddfd959c4"
+    },
+    "tedious/tedious.d.ts": {
+      "commit": "830586ef556be5244f3711587b0c774ddfd959c4"
+    }
+  }
+}

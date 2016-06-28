@@ -1,0 +1,17 @@
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\bin\ARM\Debug\resources.pri
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\bin\ARM\Debug\AppxManifest.xml
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\ResourceHandlingTask.state
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\nodejs.universal-windows-app.connect-to-azure.njsproj.GenerateResource.Cache
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\priconfig.xml
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\priconfig.xml.intermediate
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\layout.resfiles
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\layout.resfiles.intermediate
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\resources.resfiles
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\resources.resfiles.intermediate
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\pri.resfiles
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\pri.resfiles.intermediate
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\qualifiers.txt
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\qualifiers.txt.intermediate
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\obj\ARM\Debug\ProjectArchitectures.txt
+c:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\bin\ARM\Debug\nodejs.universal-windows-app.connect-to-azure.build.appxrecipe

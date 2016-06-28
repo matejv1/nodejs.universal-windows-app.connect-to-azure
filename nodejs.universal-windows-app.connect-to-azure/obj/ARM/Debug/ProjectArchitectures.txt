@@ -1,0 +1,1 @@
+C:\Source\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure\nodejs.universal-windows-app.connect-to-azure.njsproj;arm
